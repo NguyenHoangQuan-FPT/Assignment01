@@ -1,0 +1,9 @@
+body {
+    background-color: #f8f9fa; /* Light background color for contrast */
+}
+
+.form__img mb-4 {
+    max-width: 150px; /* Set a max width for the image */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 20px; /* Space below the image */
+}
